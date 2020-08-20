@@ -5,6 +5,11 @@
 Marketing Agency wants a codebase that follows accessibility standards
 So that the site is optimized for search engines
 
+## Contents
+<p>
+The app is composed of 2 pages, index.html and style.css. It also has images in the img folder
+</p>
+
 ## Acceptance Criteria
 
 ```
@@ -20,10 +25,17 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Screenshots
+
+
 
 ## URL Links
-
-[site] 
-[site]
+<a href="https://github.com/Ividigal96/Homework-week1">Link to homework files</a<hr>
+<a href="https://ividigal96.github.io/Homework-week1/">Link to deployed website</a<hr>
 
 ## Tools Used
+* [VScode](https://code.visualstudio.com/) - The editor of choice
+* [GitHub](https://github.com/) - To upload code and host the website for the project
+
+## Authors
+* **Issy Vidigal** - Currently learning coding.
