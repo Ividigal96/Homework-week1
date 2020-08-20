@@ -27,11 +27,12 @@ THEN I find a concise, descriptive title
 ```
 ## Screenshots
 
-
+[Screenshot 1](https://github.com/Ividigal96/Homework-week1/blob/master/Screenshot-1.jpg) <hr>
+[Screenshot 2](https://github.com/Ividigal96/Homework-week1/blob/master/Screenshot-2.jpg)
 
 ## URL Links
-<a href="https://github.com/Ividigal96/Homework-week1">Link to homework files</a<hr>
-<a href="https://ividigal96.github.io/Homework-week1/">Link to deployed website</a<hr>
+<a href="https://github.com/Ividigal96/Homework-week1">Link to homework files <hr>
+<a href="https://ividigal96.github.io/Homework-week1/">Link to deployed website
 
 ## Tools Used
 * [VScode](https://code.visualstudio.com/) - The editor of choice
